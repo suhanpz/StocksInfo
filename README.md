@@ -38,20 +38,7 @@ The data has be mainly sourced from NSE-India Website & Rediff Money using Web S
 ![5](https://user-images.githubusercontent.com/76606642/155952696-be842a46-6164-49d4-9f16-c50c2ab0b5ab.jpg)
 
 
-#### **The Financial News Page**
 
->##### The page shows information regarding the top-industry headlines locally & around the globe. The news is fetched using [NEWS API](https://newsapi.org/)
-
-<table>
-  <tr>
-    <td>Top Headlines</td>
-    <td>World News</td>
-  </tr>
-  <tr>
-    <td valign="middle"><img src="https://user-images.githubusercontent.com/76606642/155954120-458cd453-7d23-428f-b04f-cda790a98ede.jpg"></td>
-    <td valign="middle"><img src="https://user-images.githubusercontent.com/76606642/155954213-a4210e78-2418-4ee8-907d-24ad2702feff.png"></td>
-  </tr>
- </table>
  
 ### **Auto Complete Stock Names**
 
